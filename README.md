@@ -1,5 +1,5 @@
 # Machine-Learning-for-Social-Data-Science-
-This repository contains the python code for my Machine Learning module Coursework at UCL. 
+This repository contains the Python and R code for my Machine Learning module Coursework at UCL. The paper is provided in PDF format. Further information and the datasets are available upon request.
 
 
 **Title**: Investigating the Determinants of Support for Switzerland's 2024 Public Pension Scheme Referendum
